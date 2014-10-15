@@ -24,7 +24,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body> 
   <center>
     <h2>所有图书的列表信息 </h2>
-  	(由于程序BUG，需要先add，再返回才能显示)
+  	(由于程序BUG，需要先add，再返回才能显示)13213123123
     <table border="1">
     <tr bgcolor="#33CCFF">
     <td align="center"> Title</td>
